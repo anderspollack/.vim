@@ -1,0 +1,9 @@
+[submodule "surround"]
+	path = surround
+	url = ./pack/tpope/start/surround
+[submodule "emmet-vim"]
+	path = emmet-vim
+	url = ./plugged/emmet-vim/
+[submodule "vim-surround"]
+	path = vim-surround
+	url = ./plugged/vim-surround/
